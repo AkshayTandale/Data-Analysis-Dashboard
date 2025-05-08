@@ -1,9 +1,17 @@
-## Bank-Loan-Data-Analysis-Dashboard
-# Project Objective
+# Bank-Loan-Data-Analysis-Dashboard
+## Project Objective
 This project focuses on loan-related analytics, aiming to uncover patterns in total amount funded, branch wise performance , state wise and region wise loan disbursement trend, Default and Delinquent Loan and Client Counts and their rates, etc..
 
 ## Dataset Used
 * <a href=https://github.com/AkshayTandale/Data-Analysis-Dashboard/blob/main/Dataset/Bank%20Data%20Analystics.xlsx>Bank Analytics</a>
+
+## Key Insights
+* Loan trends
+* Default Loan Count and rates
+* Delinquent Client Count and rates
+* Loan Maturity   
+* Verified Loans
+
 
 ## KPI's
 * Total Loan Amount Funded: Measures the total value of loans disbursed.
@@ -45,3 +53,10 @@ This project focuses on loan-related analytics, aiming to uncover patterns in to
 * <a href=https://github.com/AkshayTandale/Data-Analysis-Dashboard/blob/main/Screenshots/Powerbi%20dashboard1.png>PowerBI Dashboard 1</a>
 * <a href=https://github.com/AkshayTandale/Data-Analysis-Dashboard/blob/main/Screenshots/Powerbi%20dashboard2.png>PowerBI Dashboard 2</a>
 * <a href=https://github.com/AkshayTandale/Data-Analysis-Dashboard/blob/main/Screenshots/Powerbi%20dashboard2.png>Tableau Dashboard</a>
+
+## Conclusion
+* Bank Loan Analytics project successfully highlights the power of data in driving smarter lending decisions. By analyzing customer demographics, credit history, income levels, and loan attributes, we were able * * to uncover key patterns influencing loan approvals and defaults.
+* Analyze high loan approval in the year 2018 however the downfall in 2020, needs to be investigated 	
+* Product wise we analyzed that Home loan is having highest loan disbursement.
+* We had a delinquent loan rate of 10.84% where we need to check actions to decrease the percentage.
+* As per the bank wise transaction Kotak Mahindra, Axis and SBI are leading.
