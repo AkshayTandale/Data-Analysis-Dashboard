@@ -3,7 +3,7 @@
 This project focuses on loan-related analytics, aiming to uncover patterns in total amount funded, branch wise performance , state wise and region wise loan disbursement trend, Default and Delinquent Loan and Client Counts and their rates, etc..
 
 ## Dataset Used
-<a href=https://github.com/AkshayTandale/Data-Analysis-Dashboard/blob/main/Dataset/Bank%20Data%20Analystics.xlsx>Bank Analytics<a>
+* <a href=https://github.com/AkshayTandale/Data-Analysis-Dashboard/blob/main/Dataset/Bank%20Data%20Analystics.xlsx>Bank Analytics<a>
 
 ## KPI's
 Total Loan Amount Funded: Measures the total value of loans disbursed.
