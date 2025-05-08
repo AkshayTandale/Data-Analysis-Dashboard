@@ -6,8 +6,8 @@ This project focuses on loan-related analytics, aiming to uncover patterns in to
 * <a href=https://github.com/AkshayTandale/Data-Analysis-Dashboard/blob/main/Dataset/Bank%20Data%20Analystics.xlsx>Bank Analytics<a>
 
 ## KPI's
-*Total Loan Amount Funded: Measures the total value of loans disbursed.
-*Total Loans: Tracks the number of loans issued.
+* Total Loan Amount Funded: Measures the total value of loans disbursed.
+* Total Loans: Tracks the number of loans issued.
 *Total Collection: Reflects repayment performance, including principal and interest.
 Total Interest: Captures revenue from loan interest.
 Branch-Wise Performance: Analyzes revenue (interest, fees, total) by branch.
