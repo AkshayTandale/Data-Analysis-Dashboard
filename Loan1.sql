@@ -1,4 +1,4 @@
-use akshay;
+use database;
 select* from loan;
 select count(*)
 from loan;
