@@ -50,7 +50,7 @@ This project focuses on loan-related analytics, aiming to uncover patterns in to
 
 ## Dashboard
 ![exceldashboard](https://github.com/user-attachments/assets/c28b3250-c22e-495e-819e-637001312416)
-![Powerbi dashboard1](https://github.com/user-attachments/assets/cde6353b-50ba-48a4-bdf8-ad96a030e79e)
+![PowerBI Dashboard1](https://github.com/user-attachments/assets/b2739ffa-81aa-40ba-957e-eee9a6706757)
 ![PowerBI Dashboard2](https://github.com/user-attachments/assets/7d02e188-e9d7-4fda-9422-ba46999978c7)
 ![Tableau Dashboard](https://github.com/user-attachments/assets/69d58dd2-b3e8-4431-84bb-cef0a82faf06)
 ![SQL query analysis](https://github.com/user-attachments/assets/644527b5-8b21-4dc5-91e1-538dc763570a)
